@@ -16,4 +16,4 @@
 
 ##OUTPUT:
 
-[Output.txt](https://github.com/user-attachments/files/24982769/Output.txt)
+![Image](https://github.com/user-attachments/assets/edbd21f8-ed2f-436b-8470-92d460b8bd93)
